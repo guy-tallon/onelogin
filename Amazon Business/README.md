@@ -2,7 +2,7 @@
 
 N.B I've left this as *.co.uk* so replace whatever domain you need.
 
-- Applications -> <span style="color:red">Add App</span>.
+- Applications -> <span style="color:red">*Add App*</span>.
 - SAML Custom Connector (Advanced)
 
 ### Info

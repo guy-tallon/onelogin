@@ -10,53 +10,29 @@ N.B I've left this as *.co.uk* so replace whatever domain you need.
 
 ### Configuration
 
-* RelayState
-    -
-* Audience (EntityID)
-    * https://www.amazon.co.uk
-
-* Recipient
-    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
-
-* ACS (Consumer) URL Validator*
-    * ^https:\/\/www\.amazon\.co\.uk\/bb\/feature\/sso\/action\/3p_redirect$
-
-* ACS (Consumer) URL*
-    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
-
-* Single Logout URL
-    * -
-
-* Login URL
-    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
-
-* SAML not valid before
-    * 3
-
-* SAML not valid after
-    * 3
-
-* SAML initiater
-    * OneLogin
-
-* SAML nameID format
-    * Unspecified
-
-* SAML signature element
-    * Assertion
-
-* SAML nameID format
-    * Unsepcified
-
-* SAML issuer type
-    * Specific
-
-* SAML signature element
-    * Assertion
-
-* Encryption assertion 
-    * [] Unticked 
-
+First Header  | Second Header
+------------- | -------------
+RelayState  | 
+Audience (EntityID)  | `https://www.amazon.co.uk`
+Recipient  | `https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=1234`
+ACS (Consumer) URL Validator*  | `^https:\/\/www\.amazon\.co\.uk\/bb\/feature\/sso\/action\/3p_redirect$`
+ACS (Consumer) URL*  | `https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=1234`
+Single Logout URL  | 
+Login URL  | `https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=1234`
+SAML not valid before  | 3
+SAML not valid on or after  | 3
+SAML initiater  | OneLogin
+SAML nameID format  | Email
+SAML issuer type  | Specific
+SAML signature element  | Response
+Encrypt assertion  | [ ]
+SAML encryption method  | TRIPLEDES-CBC
+Send NameID Format in SLO Request  | [ ]
+Sign SLO Request  | [ ]
+SAML sessionNotOnOrAfter  | 1440
+Generate AttributeValue tag for empty values  | [ ]
+Sign SLO Response  | [ ]
+SAML Encryption  | 
 
 ## Parameters
 
@@ -71,22 +47,15 @@ N.B I've left this as *.co.uk* so replace whatever domain you need.
 
 ## Rules
 
--
-
 ## SSO
-
--
 
 ## Acess
 
-Assing it to yourself at least for testing
+Assign it to yourself for testing
 
-# Users
+## Users
 
--
+## Privileges
 
-# Privileges
-
--
 
 

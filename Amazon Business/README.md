@@ -25,13 +25,13 @@ SAML initiater  | OneLogin
 SAML nameID format  | Email
 SAML issuer type  | Specific
 SAML signature element  | Response
-Encrypt assertion  | [ ]
+Encrypt assertion  | - [ ]
 SAML encryption method  | TRIPLEDES-CBC
-Send NameID Format in SLO Request  | [ ]
-Sign SLO Request  | [ ]
+Send NameID Format in SLO Request  | - [ ]
+Sign SLO Request  | - [ ]
 SAML sessionNotOnOrAfter  | 1440
-Generate AttributeValue tag for empty values  | [ ]
-Sign SLO Response  | [ ]
+Generate AttributeValue tag for empty values  | - [ ]
+Sign SLO Response  | - [ ]
 SAML Encryption  | 
 
 ## Parameters

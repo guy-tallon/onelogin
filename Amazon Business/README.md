@@ -25,7 +25,7 @@ SAML initiater  | OneLogin
 SAML nameID format  | Email
 SAML issuer type  | Specific
 SAML signature element  | Response
-Encrypt assertion  | - [ ]
+Encrypt assertion  | :white_large_square
 SAML encryption method  | TRIPLEDES-CBC
 Send NameID Format in SLO Request  | - [ ]
 Sign SLO Request  | - [ ]

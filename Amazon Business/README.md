@@ -1,8 +1,12 @@
 ## Amazon Business
 
-N.B I've left this as *.co.uk* so replace whatever domain you need.
+N.B I've left this based on *.co.uk* but tested on other domains.
 
-- Applications -> <span style="color:red">*Add App*</span>.
+## Onelogin Settings
+<details>
+<summary>Click to expand!</summary>
+
+- Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)
 
 ### Info
@@ -58,5 +62,12 @@ Assign it to yourself for testing
 
 ## Privileges
 
+</details>
+
+# Amazon Business Settings
+
+<details>
+<summary>Click to expand!</summary>
+</details>
 
 

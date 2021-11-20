@@ -33,17 +33,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="/Amazon">Amazon</a></li>
+    <li><a href="/Amazon%20Business">Amazon Business</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -56,7 +48,6 @@
 See the [open issues](https://github.com/furby/onelogin/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -89,7 +80,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Guy - [@twitter_handle](https://twitter.com/furby) - email@email_client.com
+Guy - [@furby](https://twitter.com/furby)
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 

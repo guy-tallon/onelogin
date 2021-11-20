@@ -10,29 +10,83 @@ N.B I've left this as *.co.uk* so replace whatever domain you need.
 
 ### Configuration
 
-- Audience (EntityID) - https://www.amazon.co.uk
-- Recipient - https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
-- ACS (Consumer) URL Validator*
- - ^https:\/\/www\.amazon\.co\.uk\/bb\/feature\/sso\/action\/3p_redirect$
+* RelayState
+    -
+* Audience (EntityID)
+    * https://www.amazon.co.uk
 
-- ACS (Consumer) URL*
- - https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
+* Recipient
+    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
 
-- Login URL
- - https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
+* ACS (Consumer) URL Validator*
+    * ^https:\/\/www\.amazon\.co\.uk\/bb\/feature\/sso\/action\/3p_redirect$
 
-- SAML initiater
- - OneLogin
+* ACS (Consumer) URL*
+    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
 
-- SAML nameID format
- - Unspecified
+* Single Logout URL
+    * -
 
-- SAML signature element
- - Assertion
+* Login URL
+    * https://www.amazon.co.uk/bb/feature/sso/action/3p_redirect?idpId=<theid in the Amazon SSO Settings>
 
-- Encryption assertion 
- - Unticked 
+* SAML not valid before
+    * 3
+
+* SAML not valid after
+    * 3
+
+* SAML initiater
+    * OneLogin
+
+* SAML nameID format
+    * Unspecified
+
+* SAML signature element
+    * Assertion
+
+* SAML nameID format
+    * Unsepcified
+
+* SAML issuer type
+    * Specific
+
+* SAML signature element
+    * Assertion
+
+* Encryption assertion 
+    * [] Unticked 
 
 
 ## Parameters
+
+| SAML Custom Connector (Advanced) Field      | Value |
+| ----------- | ----------- |
+| NameID (fka Email)     | Email       |
+| email   | Email `*`       |
+| fname   | First Name `*`        |
+| lname   | Last Name `*`        |
+
+`*` ☑️ Include in SAML assertion
+
+## Rules
+
+-
+
+## SSO
+
+-
+
+## Acess
+
+Assing it to yourself at least for testing
+
+# Users
+
+-
+
+# Privileges
+
+-
+
 

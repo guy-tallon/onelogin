@@ -78,7 +78,7 @@ Assign it to yourself for testing
 
 Error:
 
-```Assertions could not be parsed from the request. Ensure the assertions are being sent and are encrypted by the IDP.```
+`Assertions could not be parsed from the request. Ensure the assertions are being sent and are encrypted by the IDP.`
 
 - Make sure **Encyrpt Assertion** is unticked in the Onelogin Settings (yes, unticked)
 

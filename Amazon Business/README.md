@@ -67,7 +67,7 @@ Assign it to yourself for testing
 ## Amazon Business Settings
 
 <details>
-<summary>Click to expand!</summary>
+<summary>Click to expand</summary>
 
 ![amazon_bus_connection_data](img/amazon_bus_1.png)
 
@@ -75,6 +75,9 @@ Assign it to yourself for testing
 
 
 ## Troubleshooting - Extras
+
+<details>
+<summary>Click to expand!</summary>
 
 Error:
 
@@ -102,5 +105,7 @@ This is assuming the username is `john.doe` and the email domain is `onelogin.co
 
 So you can have mutiple companies for each user
 
+Should look like the below
+![amazon_bus_connection_data](img/amazon_bus_1.png)
 
-
+</details>

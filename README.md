@@ -27,15 +27,15 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="/Amazon%20Business">Amazon Business</a></li>
+    <li><a href="/Datadog">Datadog</a></li>
   </ol>
-</details>
 
 <!-- ROADMAP -->
 ## Roadmap

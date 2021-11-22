@@ -1,6 +1,6 @@
 ## Amazon Business
 
-N.B I've left this based on *.co.uk* but tested on other domains.
+N.B I've left this based on **.co.uk** but have it setup on other domains.
 
 ## Onelogin Settings
 <details>
@@ -81,4 +81,26 @@ Error:
 `Assertions could not be parsed from the request. Ensure the assertions are being sent and are encrypted by the IDP.`
 
 - Make sure **Encyrpt Assertion** is unticked in the Onelogin Settings (yes, unticked)
+
+### Multiple Companies
+
+- If you have users with access to multiple companies you can't use the same email address. Amazon will tell you the email "Is already a memeber of another company.
+
+- Create another SAML Custom Conenctor with the same steps above.
+
+- Then OneLogin Macros to the rescue!
+https://onelogin.service-now.com/kb_view_customer.do?sysparm_article=KB0010609
+
+Go the Parameters and change the SAML Custom Connector...
+
+Let's say you want **john.doe+custom@onelogin.com**
+
+**NameID** -> Value -> Macro and `{username}+custom@{email_domain_part}`
+**email** -> Value -> Macro and `{username}+custom@{email_domain_part}`
+
+This is assuming the username is `john.doe` and the email domain is `onelogin.com`
+
+So you can have mutiple companies for each user
+
+
 

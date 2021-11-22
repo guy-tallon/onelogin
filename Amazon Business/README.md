@@ -105,7 +105,7 @@ This is assuming the username is `john.doe` and the email domain is `onelogin.co
 
 So you can have mutiple companies for each user
 
-Should look like the below
-![amazon_bus_connection_data](img/amazon_bus_1.png)
+Should look like the below <br>
+![amazon_bus_connection_data](img/amazon_bus_2.png)
 
 </details>

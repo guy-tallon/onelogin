@@ -64,10 +64,21 @@ Assign it to yourself for testing
 
 </details>
 
-# Amazon Business Settings
+## Amazon Business Settings
 
 <details>
 <summary>Click to expand!</summary>
+
+![amazon_bus_connection_data](img/amazon_bus_1.png)
+
 </details>
 
+
+## Troubleshooting - Extras
+
+Error:
+
+```Assertions could not be parsed from the request. Ensure the assertions are being sent and are encrypted by the IDP.```
+
+- Make sure **Encyrpt Assertion** is unticked in the Onelogin Settings (yes, unticked)
 

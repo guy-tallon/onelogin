@@ -89,7 +89,7 @@ Error:
 
 - If you have users with access to multiple companies you can't use the same email address. Amazon will tell you the email "Is already a memeber of another company.
 
-- Create another SAML Custom Conenctor with the same steps above.
+Create another SAML Custom Conenctor with the same steps above.
 
 - Then OneLogin Macros to the rescue!
 https://onelogin.service-now.com/kb_view_customer.do?sysparm_article=KB0010609
@@ -99,13 +99,15 @@ Go the Parameters and change the SAML Custom Connector...
 Let's say you want **john.doe+custom@onelogin.com**
 
 **NameID** -> Value -> Macro and `{username}+custom@{email_domain_part}`
+<br>
+
 **email** -> Value -> Macro and `{username}+custom@{email_domain_part}`
 
 This is assuming the username is `john.doe` and the email domain is `onelogin.com`
 
-So you can have mutiple companies for each user
+Should look like the below
+<p>
 
-Should look like the below <br>
 ![amazon_bus_connection_data](img/amazon_bus_2.png)
-
+</p>
 </details>

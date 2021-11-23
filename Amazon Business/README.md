@@ -1,6 +1,4 @@
-## Amazon Business
-
-N.B I've left this based on **.co.uk** but have it setup on other domains.
+# Amazon Business
 
 ## Capablities
 
@@ -9,11 +7,24 @@ N.B I've left this based on **.co.uk** but have it setup on other domains.
 | SAML | ✅ | Create |	|
 | OIDC | | Delete |	|
 | WS-Federation |  | Update |	|
-| Form Based |  |	|	|
+| Form Based |  |	| - [ ] Create	|
 
 ## Onelogin Settings
 <details>
 <summary>Click to expand</summary>
+
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+
+
+N.B I've left this based on **.co.uk** but have it setup on other domains.
+ - [ ] Create
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)

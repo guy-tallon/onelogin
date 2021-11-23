@@ -9,22 +9,19 @@
 | WS-Federation |  | Update |	|
 | Form Based |  |	| - [ ] Create	|
 
+
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+
 ## Onelogin Settings
 <details>
 <summary>Click to expand</summary>
 
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-
-
 N.B I've left this based on **.co.uk** but have it setup on other domains.
- - [ ] Create
+
+| :exclamation:  This is very important   |
+|-----------------------------------------|
+
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)

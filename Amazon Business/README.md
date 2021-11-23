@@ -7,19 +7,13 @@
 | SAML | ✅ | Create |	|
 | OIDC | | Delete |	|
 | WS-Federation |  | Update |	|
-| Form Based |  |	| - [ ] Create	|
-
-
-| :exclamation:  This is very important   |
-|-----------------------------------------|
+| Form Based |  |	| 	|
 
 ## Onelogin Settings
 <details>
 <summary>Click to expand</summary>
 
-N.B I've left this based on **.co.uk** but have it setup on other domains.
-
-| :exclamation:  This is very important   |
+| :zap: The example used is **.co.uk** but it will work with any domain.   |
 |-----------------------------------------|
 
 

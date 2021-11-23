@@ -2,9 +2,18 @@
 
 N.B I've left this based on **.co.uk** but have it setup on other domains.
 
+## Capablities
+
+| Access |	| Provisioning |	|
+|--|--|--|--|
+| SAML | ✅ | Create |	|
+| OIDC | | Delete |	|
+| WS-Federation |  | Update |	|
+| Form Based |  |	|	|
+
 ## Onelogin Settings
 <details>
-<summary>Click to expand!</summary>
+<summary>Click to expand</summary>
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)
@@ -77,7 +86,7 @@ Assign it to yourself for testing
 ## Troubleshooting - Extras
 
 <details>
-<summary>Click to expand!</summary>
+<summary>Click to expand</summary>
 
 Error:
 
@@ -87,9 +96,9 @@ Error:
 
 ### Multiple Companies
 
-- If you have users with access to multiple companies you can't use the same email address. Amazon will tell you the email "Is already a memeber of another company.
+If you have users with access to multiple companies you can't use the same email address. Amazon will tell you the email "Is already a memeber of another company.
 
-Create another SAML Custom Conenctor with the same steps above.
+- Create another SAML Custom Conenctor with the same steps above.
 
 - Then OneLogin Macros to the rescue!
 https://onelogin.service-now.com/kb_view_customer.do?sysparm_article=KB0010609

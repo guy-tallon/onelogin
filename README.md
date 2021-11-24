@@ -30,8 +30,8 @@
 
   <summary>Connectors</summary>
   <ol>
-    <li><a href="/Amazon%20Business">Amazon Business</a></li>
-    <li><a href="/Datadog">Datadog</a></li>
+    <li><a href="/amazon_business">Amazon Business</a></li>
+    <li><a href="/datadog">Datadog</a></li>
   </ol>
 
 <!-- ROADMAP -->

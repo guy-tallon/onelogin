@@ -7,7 +7,7 @@
 | SAML | ✅ | Create |	|
 | OIDC | | Delete |	|
 | WS-Federation |  | Update |	|
-| Form Based |  |	| 	|
+| Form Based |  |   Just in Time	| ✅	|
 
 ## Onelogin Settings
 <details>

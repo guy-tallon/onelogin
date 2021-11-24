@@ -28,11 +28,8 @@
 
 <!-- TABLE OF CONTENTS -->
 
-  <summary>Table of Contents</summary>
+  <summary>Connectors</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
     <li><a href="/Amazon%20Business">Amazon Business</a></li>
     <li><a href="/Datadog">Datadog</a></li>
   </ol>
@@ -40,10 +37,10 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Get connector settings in as many as possible
-- [] Create a good template
-- [] Attract more contributors
-- [] Allow this to be in Terraform Form
+- [ ] Get connector settings in as many as possible
+- [ ] Create a good template
+- [ ] Attract more contributors
+- [ ] Allow this to be in Terraform Form
 
 See the [open issues](https://github.com/furby/onelogin/issues) for a full list of proposed features (and known issues).
 
@@ -82,7 +79,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Guy - [@furby](https://twitter.com/furby)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/furby/onelogin/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

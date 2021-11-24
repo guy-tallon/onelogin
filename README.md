@@ -77,7 +77,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Guy - [@furby](https://twitter.com/furby)
+Guy - [@Guy](https://macadmins.slack.com/archives/D1KGZFZN0) - Mac Admins Slack
 
 Project Link: https://github.com/furby/onelogin/
 

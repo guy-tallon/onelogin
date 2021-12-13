@@ -20,7 +20,7 @@
   <p align="center">
     This is hopefully as useful guide for some of the connetods in OneLogin where the documenatatin migth be lacking. 
     <br />
-    <a href=https://github.com/furby/onelogin/issuess">Request Feature</a>
+    <a href="https://github.com/furby/onelogin/issues">Request Feature</a>
   </p>
 </div>
 
@@ -97,14 +97,14 @@ Project Link: https://github.com/furby/onelogin/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/furby/onelogin.svg?style=for-the-badge
 [contributors-url]: https://github.com/furby/onelogin/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/furby/oneloginsvg?style=for-the-badge
 [forks-url]: https://github.com/furby/onelogin/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/furby/onelogin.svg?style=for-the-badge
 [stars-url]: https://github.com/furby/onelogin/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/furby/onelogin.svg?style=for-the-badge
 [issues-url]: https://github.com/furby/onelogin/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/furby/onelogin.svg?style=for-the-badge
 [license-url]: https://github.com/furby/onelogin/LICENSE.txt
 [product-screenshot]: images/screenshot.png

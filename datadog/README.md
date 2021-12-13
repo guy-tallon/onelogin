@@ -15,7 +15,7 @@
 
 | :eu: The example used is **EU** but it will work with the US domain. |
 |-----------------------------------------|
-:zap: If you go https://app.datadoghq.eu/organization-settings/login-methods/saml to get your id  (or here for the steps(#Datadog Settings)|
+:zap: If you go https://app.datadoghq.eu/organization-settings/login-methods/saml to get your id or here(#datadog-settings) for the steps|
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)

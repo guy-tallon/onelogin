@@ -14,7 +14,8 @@
 <summary>Click to expand</summary>
 
 | :eu: The example used is **EU** but it will work with the US domain.   |
-|-----------------------------------------|| :zap: Get your **ID** /url from https://app.datadoghq.eu/organization-settings/login-methods/saml   |
+|-----------------------------------------|
+| :zap: Get your **ID** /url from https://app.datadoghq.eu/organization-settings/login-methods/saml   |
 |-----------------------------------------|
 
 

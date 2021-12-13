@@ -13,11 +13,9 @@
 <details>
 <summary>Click to expand</summary>
 
-| :eu: The example used is **EU** but it will work with the US domain.   |
+| :eu: The example used is **EU** but it will work with the US domain. |
 |-----------------------------------------|
-<br>
-| :eu: The example used is **EU** but it will work with the US domain.   |
-|-----------------------------------------|
+:zap: If you go https://app.datadoghq.eu/organization-settings/login-methods/saml to get your id  (or here for the steps(#Datadog Settings)|
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)
@@ -33,7 +31,7 @@ Datadog (Assertion Consumer Service)
 
 ### Configuration
 
-First Header  | Second Header
+SAML Custom Connector (Advanced) Field  | Value
 ------------- | -------------
 RelayState  | 
 Audience (EntityID)  | `https://app.datadoghq.eu/account/saml/metadata.xml`

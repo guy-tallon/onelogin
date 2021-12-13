@@ -16,11 +16,8 @@
 | :eu: The example used is **EU** but it will work with the US domain.   |
 |-----------------------------------------|
 <br>
-| :zap: Get your **ID** /url from https://app.datadoghq.eu/organization-settings/login-methods/saml   |
+| :eu: The example used is **EU** but it will work with the US domain.   |
 |-----------------------------------------|
-
-
-https://app.datadoghq.eu/organization-settings/login-methods/saml
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)

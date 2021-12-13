@@ -26,7 +26,7 @@
 
 ### Configuration
 
-First Header  | Second Header
+SAML Custom Connector (Advanced) Field  | Value
 ------------- | -------------
 RelayState  | 
 Audience (EntityID)  | `https://www.amazon.co.uk`

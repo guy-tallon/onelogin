@@ -13,8 +13,12 @@
 <details>
 <summary>Click to expand</summary>
 
-| :zap: The example used is **EU** but it will work with the US domain.   |
+| :eu: The example used is **EU** but it will work with the US domain.   |
+|-----------------------------------------|| :zap: Get your **ID** /url from https://app.datadoghq.eu/organization-settings/login-methods/saml   |
 |-----------------------------------------|
+
+
+https://app.datadoghq.eu/organization-settings/login-methods/saml
 
 - Applications -> <span style="color:red">Add App</span>.
 - SAML Custom Connector (Advanced)
